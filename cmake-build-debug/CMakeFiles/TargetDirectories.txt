@@ -1,0 +1,3 @@
+D:/Proektlar 002/calculation/cmake-build-debug/CMakeFiles/calculation.dir
+D:/Proektlar 002/calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proektlar 002/calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
